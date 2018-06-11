@@ -22,6 +22,8 @@ This class includes program main graphical user interface and program excution s
 
 Secoundry classes are:
 
+Program.py - Contains the whole Kmean and KNN analysis 
+
 DatabaseUserChecker.java - Contain login frame and user athentication (Localhost / User: root / Password: y9mkrg6wyc8r)
 
 ExtractDataFromCSV.java - Contains a method used to read CSV files
