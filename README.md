@@ -1,4 +1,4 @@
-WARNING : IN ORDER FOR THE CODE TO WORK BOTH JAVA AND PYTHON NEED TO BE INSTALLED !!!!!!!!
+WARNING : IN ORDER FOR THE CODE TO WORK BOTH JAVA AND PYTHON NEED TO BE INSTALLED 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 This program was developed as part of KTH EH2745 course by Amar Abideen and Hatem Alatawi (Group 7)
 ----------------------------------------------------------------------------------------------------------------------------------------------
