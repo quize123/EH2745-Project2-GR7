@@ -13,7 +13,9 @@ The primary GUI application is a java class called MainGUI.java
 This class includes program main graphical user interface and program excution stages which are:
 
 1- Login to database frame and establish connection 
+
 2- Run and execute program to create tables and figures
+
 3- Present tables and figures 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
