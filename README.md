@@ -23,5 +23,7 @@ This class includes program main graphical user interface and program excution s
 Secoundry classes are:
 
 DatabaseUserChecker.java - Contain login frame and user athentication (Localhost / User: root / Password: y9mkrg6wyc8r)
+
 ExtractDataFromCSV.java - Contains a method used to read CSV files
+
 TablePoP.java - Contains GUI representation of Tables and figures
